@@ -1,0 +1,8 @@
+{
+  "name": "Immediate Care Plan Pitch Deck",
+  "description": "A professional slide deck for financial advisors detailing the benefits of the Immediate Care Plan Annuity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
